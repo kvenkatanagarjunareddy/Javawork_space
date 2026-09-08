@@ -1,6 +1,6 @@
 package com.javaintroduction;
 
-public class sqldriverclassinsering {
+public class Sqldriverclassinsering {
 
 	public static void main(String[] args) throws ClassNotFoundException {
 		System.out.println("main method executed");
