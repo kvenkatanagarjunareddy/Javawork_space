@@ -12,7 +12,7 @@ public class FoodsOrderingSystem {
         Scanner sc = new Scanner(System.in);
         double totalBill = 0;
         String choice;
-        
+
         do {
             System.out.println("\nMenu Card:");
             System.out.println("1 -> Pizza   - ₹200");
@@ -71,6 +71,6 @@ public class FoodsOrderingSystem {
         System.out.println("  Thank you for ordering! Total Bill: ₹" + totalBill);
         System.out.println("=========================================");
         
-        sc.close(); // Closed the scanner resource
+        sc.close(); 
     }
 }
