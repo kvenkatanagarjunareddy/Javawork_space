@@ -3,7 +3,7 @@ package com.logicalStatements.WhileLoops;
 
 import java.util.Scanner;
 
-public class EvenSumUSingWhileLOOP {
+public class EvenSumGivenNumber{
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
